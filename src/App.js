@@ -17,8 +17,6 @@ function App() {
           <Testimonials/>
           <Joins/>
           <Footer/>
-          
-           hii
     </div>
   ); 
 }
